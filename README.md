@@ -5,8 +5,12 @@
 
 🔭 I’m working on being better than yesterday in full-stack Engineering.<br>🌱 I’m currently learning GO, Kubernetes<br>📫 How to reach me: kevinpatel222004@gmail.com<br>
 
-### 🌐 Socials:
+<details>
+<summary>🌐 Socials:</summary>
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin222004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kevinpatel2004) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kevinpatel222004) 
+
+</details>
 
 <details>
 <summary>💻 Tech Stack</summary>
