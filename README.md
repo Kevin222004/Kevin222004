@@ -22,11 +22,6 @@
 ### Track My Open Source Contributions 👨‍💻: 
  - [checkstyle/checkstyle (~230)](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Akevin222004+is%3Amerged+)
  - [meshery/meshery](https://github.com/Meshery/meshery/commits?author=Kevin222004)
- <a href= "https://meshery.layer5.io/user/3ab3a432-22ef-47e3-aaf1-a2d090f0d5c1?tab=badges">
-    <img width="124px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.png" />
-    <img width="124px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" />
-    <img width="124px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" />
-  </a >
 
 
 <details>
